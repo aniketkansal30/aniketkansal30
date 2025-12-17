@@ -50,7 +50,8 @@ I enjoy building data-driven solutions, exploring ML concepts, and automating wo
 
 ## 🧩 Backend & Development Tools  
 - MySQL  
-- GitHub  
+- GitHub
+- Git  
 - Jupyter Notebook  
 
 ---
